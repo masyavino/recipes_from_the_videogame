@@ -1,0 +1,65 @@
+.body {
+    background: #198754;
+    width: 800px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-23%);
+}
+.title {
+    margin: 20px 0px 20px 0px;
+    background: #198754;
+    border: 1px #ccc solid;
+    box-shadow: 0 0 2px rgba(0,0,0,0.8);
+}
+.h {
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+.p {
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+.pg1 {
+    background: #198754;
+    width: 900px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-22%);
+}
+.pg2 {
+    background: #198754;
+    width: 900px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-18%);
+} 
+.pg3 {
+    background: #198754;
+    width: 900px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-27%);
+} 
+.tt{
+    text-align: center;
+    font-weight: 700;
+    font-size: largex;
+}
+.of{
+    font-weight: 700;
+    margin: 0px 0px 0px 0px;
+    font-size: large;
+}
+.te{
+    font-size: large;
+}
+.card{
+    margin: 0px 0px 16px 0px;
+    background: #198754;
+    border: 1px #ccc solid;
+    box-shadow: 0 0 2px rgba(0,0,0,0.8);
+}
